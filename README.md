@@ -1,4 +1,4 @@
-# Konik-szachowy-January-2021
+# Knight-January-2021
 ## Task
 Finding a way of knight on the chessboard n*n, which visits every chequer exactly once.
 
